@@ -11,4 +11,3 @@
 /storage/logs/*
 Dockerfile
 .dockerignore
-docker
